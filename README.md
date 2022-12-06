@@ -1,24 +1,15 @@
 # challenge-9-Node.js
 
-
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This project allows someone to make a high quality readme by filling in the information. I was motivated to make this since every project requires a readme file so this will make it easier to generate one with everything I need. This will solve the problem of having to copy and paste the skeleton of the readme from the prework assignment. I learned how to use npm tools like inquirer.
 
 ## Installation
 
 N/A
 
 ## Usage
+Open a new terminal and go to the develop folder. Type node index.js and fill in all the questions and a readme will be generated in the output folder.
 Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 # Credits
 
